@@ -1,0 +1,20 @@
+venv/
+data/
+
+*.py[cod]
+
+# log files
+*.log
+.vscode/
+
+
+#Unit test reports
+TEST*.xml
+
+#sqlite db
+db.sqlite3
+
+#Applications
+*.app
+*.exe
+*.war
